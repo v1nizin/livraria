@@ -1,0 +1,86 @@
+{
+  "jogadores": [
+    {
+      "nome": "Gabi gol",
+      "timeId": 1,
+      "id": 1
+    },
+    {
+      "nome": "Nene",
+      "timeId": 2,
+      "id": 2
+    },
+    {
+      "nome": "Ganso",
+      "timeId": 3,
+      "id": 3
+    },
+    {
+      "nome": "Chay",
+      "timeId": 4,
+      "id": 4
+    },
+    {
+      "nome": "Leo",
+      "timeId": 5,
+      "id": 5
+    },
+    {
+      "nome": "Thiago",
+      "timeId": 6,
+      "id": 6
+    },
+    {
+      "nome": "Eduardo Barbaro ",
+      "timeId": 7,
+      "id": 7
+    },
+    {
+      "nome": "Eduardo da Silva",
+      "timeId": 7,
+      "id": 8
+    }
+  ],
+  "times": [
+    {
+      "nome": "Flamengo",
+      "cidade": "Rio de Janeiro",
+      "id": 1
+    },
+    {
+      "nome": "Vasco",
+      "cidade": "Rio de Janeiro",
+      "id": 2
+    },
+    {
+      "nome": "Fluminense ",
+      "cidade": "Rio de Janeiro",
+      "id": 3
+    },
+    {
+      "nome": "Botafogo",
+      "cidade": "Rio de Janeiro",
+      "id": 4
+    },
+    {
+      "nome": "Coritiba FC",
+      "cidade": "Curitiba",
+      "id": 5
+    },
+    {
+      "nome": "Atlhetico Parana",
+      "cidade": "Curitiba",
+      "id": 6
+    },
+    {
+      "nome": "JEC Krona",
+      "cidade": "Joinville",
+      "id": 7
+    },
+    {
+      "nome": "JEC ",
+      "cidade": "Joinville",
+      "id": 8
+    }
+  ]
+}
